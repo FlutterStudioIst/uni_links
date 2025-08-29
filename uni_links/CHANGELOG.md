@@ -1,4 +1,4 @@
-## [0.5.1-fix1] - 2025-08-29
+## [0.5.1+fix1] - 2025-08-29
 
 * update flutter / android sdk
 
