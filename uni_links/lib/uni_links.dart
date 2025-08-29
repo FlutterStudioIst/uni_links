@@ -1,3 +1,5 @@
+library flutter_uni_links;
+
 import 'dart:async';
 
 import 'package:uni_links_platform_interface/uni_links_platform_interface.dart';
