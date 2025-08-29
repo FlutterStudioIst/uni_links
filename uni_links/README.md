@@ -1,3 +1,14 @@
+# flutter_uni_links
+
+基于`uni_links: ^0.5.1` https://pub.dev/packages/uni_links 修改如下:
+
+```diff
++ 更新Flutter 版本3.35.2
++ 更新Android SDK 35
+```
+
+---
+
 # Uni Links
 
 A Flutter plugin project to help with App/Deep Links (Android) and
