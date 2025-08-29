@@ -1,3 +1,7 @@
+## [0.5.1-fix1] - 2025-08-29
+
+* update flutter / android sdk
+
 ## [0.5.1] - 2021-04-28
 
 * Add the `getLinksStream()` and `getUriLinksStream()` methods back (flagged as deprecated) since they were removed.
